@@ -223,10 +223,10 @@ button:hover {
 }
 
 .highlight-sidebar {
+    vertical-align: top;
     color: #999;
     display: inline-block;
     margin-left: 30px;
-    vertical-align: top;
 }
 
 .highlight-sidebar h3 {
