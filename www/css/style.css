@@ -220,6 +220,8 @@ button:hover {
     height: 400px;
     background-color: #333;
     padding: 37.5px 100px;
+    display: flex;
+    margin-bottom: 50px;
 }
 
 .highlight-sidebar {
@@ -260,7 +262,7 @@ button:hover {
 .highlight-sidebar li {
     list-style-type: none;
     font: bold 25px 'Open Sans Condensed', sans-serif;
-    line-height: 29px;
+    line-height: 30px;
     color: #999;
     margin-bottom: 30px;
     margin-left: 25px;   
